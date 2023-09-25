@@ -1,0 +1,7 @@
+C:\Users\arinp\source\repos\yksiUloitteinenTaulukko\yksiUloitteinenTaulukko\bin\Debug\yksiUloitteinenTaulukko.exe.config
+C:\Users\arinp\source\repos\yksiUloitteinenTaulukko\yksiUloitteinenTaulukko\bin\Debug\yksiUloitteinenTaulukko.exe
+C:\Users\arinp\source\repos\yksiUloitteinenTaulukko\yksiUloitteinenTaulukko\bin\Debug\yksiUloitteinenTaulukko.pdb
+C:\Users\arinp\source\repos\yksiUloitteinenTaulukko\yksiUloitteinenTaulukko\obj\Debug\yksiUloitteinenTaulukko.csproj.AssemblyReference.cache
+C:\Users\arinp\source\repos\yksiUloitteinenTaulukko\yksiUloitteinenTaulukko\obj\Debug\yksiUloitteinenTaulukko.csproj.CoreCompileInputs.cache
+C:\Users\arinp\source\repos\yksiUloitteinenTaulukko\yksiUloitteinenTaulukko\obj\Debug\yksiUloitteinenTaulukko.exe
+C:\Users\arinp\source\repos\yksiUloitteinenTaulukko\yksiUloitteinenTaulukko\obj\Debug\yksiUloitteinenTaulukko.pdb
